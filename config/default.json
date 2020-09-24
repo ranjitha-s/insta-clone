@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Ranjitha:1@Truprakru@mern-insta.2f3zf.mongodb.net/mern-insta?retryWrites=true&w=majority",
+  "jwtSecret": "ranjitha"
+}
